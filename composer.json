@@ -16,9 +16,6 @@
         "openpsa/midcom-core": "dev-main",
         "openpsa/org-openpsa-widgets": "dev-main"
     },
-    "suggest": {
-        "openpsa/midcom-services-at": "For using the brute force login protections"
-    },
     "prefer-stable": true,
     "minimum-stability": "dev",
     "autoload": {
