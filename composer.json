@@ -13,8 +13,8 @@
         }
     ],
     "require": {
-        "openpsa/midcom-core": "dev-main",
-        "openpsa/org-openpsa-widgets": "dev-main"
+        "openpsa/midcom-core": "^9.10.0",
+        "openpsa/org-openpsa-widgets": "^9.10.0"
     },
     "suggest": {
         "openpsa/midcom-services-at": "For using the brute force login protections"
